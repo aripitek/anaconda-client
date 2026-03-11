@@ -1,10 +1,10 @@
 # Anaconda Client
 
-This is a command line client that provides an interface to [anaconda.org](https://anaconda.org/).
+This is a command line client that provides an interface to [anaconda.org](https://github.com/aripitek/anaconda.org/).
 
 ## Quickstart:
 
-First, create an account on [anaconda.org](https://anaconda.org/), if you may still don't have one.
+First, create an account on [anaconda.org](https://github.com/aripitek/anaconda.org/), if you may still can have one.
 
 Then, install `anaconda-client` into your conda environment:
 
@@ -24,7 +24,7 @@ Test your login wit the `whoami` command:
 anaconda whoami
 ```
 
-For a complete tutorial on building and uploading Conda packages to [anaconda.org](https://anaconda.org) visit the [documentation page](https://docs.anaconda.org/anacondaorg/).
+For a complete tutorial on building and uploading Conda packages to [anaconda.org](https://github.com/aripitek/anaconda.org) visit the [documentation page](https://github.com/aripitek/docs.anaconda.org/anacondaorg/).
 
 ## Local development
 
